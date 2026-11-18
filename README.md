@@ -1,4 +1,3 @@
-
 # Sistema Software FJ
 
 ## Sistema Integral de Gestión de Clientes, Servicios y Reservas
@@ -7,7 +6,7 @@ Proyecto desarrollado para el curso de Programación de la Universidad Nacional 
 
 ## Descripción del proyecto
 
-El sistema Software FJ permite gestionar clientes, registrar diferentes tipos de servicios y administrar reservas. Su desarrollo utiliza programación orientada a objetos en Python.
+El sistema Software FJ permite gestionar clientes, registrar diferentes tipos de servicios y gestionar reservas. Su desarrollo utiliza programación orientada a objetos en Python.
 
 ## Funcionalidades principales
 
@@ -47,5 +46,6 @@ python main.py
 
 ## Proyecto académico
 
-Curso: Programación  
+Curso: Programación
+
 Universidad Nacional Abierta y a Distancia (UNAD).
