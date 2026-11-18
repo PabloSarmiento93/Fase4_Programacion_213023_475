@@ -48,4 +48,4 @@ python main.py
 ## Proyecto académico
 
 Curso: Programación  
-Universidad Nacional Abierta y  a Distancia (UNAD).
+Universidad Nacional Abierta y a Distancia (UNAD).
